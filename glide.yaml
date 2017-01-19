@@ -1,0 +1,7 @@
+package: github.com/cubex/proto-go
+import: 
+- package: github.com/cubex/proto
+  vcs: git
+  repo: https://github.com/cubex/proto.git
+- package: google.golang.org/grpc
+  version: v1.0.4

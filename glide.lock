@@ -1,0 +1,10 @@
+hash: 1ea106789aad3997e56320eb4a90b2dd6f5fe275f3ab3b999818bc1154acca16
+updated: 2017-01-19T14:13:23.487425631Z
+imports:
+- name: github.com/cubex/proto
+  version: c3d3794cea5c2ef4ceb592785c8ee2c11f9ac8fc
+  repo: https://github.com/cubex/proto.git
+  vcs: git
+- name: google.golang.org/grpc
+  version: 777daa17ff9b5daef1cfdf915088a2ada3332bf0
+testImports: []
