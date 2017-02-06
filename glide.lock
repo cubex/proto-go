@@ -1,8 +1,8 @@
 hash: 1ea106789aad3997e56320eb4a90b2dd6f5fe275f3ab3b999818bc1154acca16
-updated: 2017-01-30T15:50:45.263830368Z
+updated: 2017-02-06T11:45:00.302814508Z
 imports:
 - name: github.com/cubex/proto
-  version: 0ea51fc771335b0c0f6400a7555c262b421a62f3
+  version: 38aea3dc75f3adc8d813f992856f3ab6f25be17b
   repo: https://github.com/cubex/proto.git
   vcs: git
 - name: github.com/golang/protobuf
@@ -12,7 +12,7 @@ imports:
   - ptypes/duration
   - ptypes/timestamp
 - name: golang.org/x/net
-  version: f2499483f923065a842d38eb4c7f1927e6fc6e6d
+  version: 236b8f043b920452504e263bc21d354427127473
   subpackages:
   - context
   - http2
