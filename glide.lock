@@ -1,8 +1,8 @@
 hash: 1ea106789aad3997e56320eb4a90b2dd6f5fe275f3ab3b999818bc1154acca16
-updated: 2017-02-06T11:45:00.302814508Z
+updated: 2017-02-08T17:32:58.512059791Z
 imports:
 - name: github.com/cubex/proto
-  version: 38aea3dc75f3adc8d813f992856f3ab6f25be17b
+  version: e37f5c80bf91f3e49de846b0f6cc2cdd4bd5d56c
   repo: https://github.com/cubex/proto.git
   vcs: git
 - name: github.com/golang/protobuf
